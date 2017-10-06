@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/vlad.kostrov/",
+  "hostname": "127.0.0.1",
+  "notebook_dir": "/home/vlad.kostrov",
+  "password": false,
+  "pid": 5081,
+  "port": 56522,
+  "secure": false,
+  "token": "",
+  "url": "http://127.0.0.1:56522/user/vlad.kostrov/"
+}
